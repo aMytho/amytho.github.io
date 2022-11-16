@@ -1,4 +1,4 @@
-baseurl = "https://amytho.github.io/hugo-cs/"
+baseurl = "https://amytho.github.io"
 metaDataFormat = "yaml"
 title = "Elixir"
 theme = "blist"
