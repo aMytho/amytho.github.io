@@ -45,6 +45,10 @@ input, label {
     padding: 0.3em;
 }
 
+form input {
+    color: black !important;
+}
+
 section.lightPink p, section.lightPink h1{
     color: black !important
 }
