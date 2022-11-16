@@ -26,8 +26,8 @@ DefaultContentLanguageInSubdir = true
         weight = 2
 
     [[languages.en.menu.main]]
-        name = "Tags"
-        url = "tags"
+        name = "Feedback"
+        url = "page/feedback"
         weight = 3
 
     [[languages.en.menu.main]]
