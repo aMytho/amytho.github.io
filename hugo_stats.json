@@ -4,6 +4,7 @@
       "a",
       "article",
       "body",
+      "br",
       "button",
       "circle",
       "defs",
@@ -23,6 +24,7 @@
       "iframe",
       "img",
       "input",
+      "label",
       "li",
       "line",
       "lineargradient",
@@ -178,9 +180,12 @@
       "elixir-lang-official",
       "elixir-resources",
       "elixir-school",
+      "email",
+      "feedback",
       "glimesh",
       "hexdocs",
       "learnMore",
+      "msg",
       "tech-stack"
     ]
   }
