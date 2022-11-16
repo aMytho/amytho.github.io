@@ -37,8 +37,12 @@ body {
     background-color: #583D66 !important;
 }
 
-p, h1, h2, h3, h4 {
+p, h1, h2, h3, h4, label {
     color: aliceblue !important;
+}
+
+input, label {
+    padding: 0.3em;
 }
 
 section.lightPink p, section.lightPink h1{
@@ -71,3 +75,4 @@ section a:hover, .link a:hover {
 footer span {
     color: aliceblue !important;
 }
+
