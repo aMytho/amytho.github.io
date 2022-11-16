@@ -80,3 +80,8 @@ footer span {
     color: aliceblue !important;
 }
 
+#submitBTN {
+    color: black;
+    background-color: aliceblue;
+    padding: 0.3rem;
+}
